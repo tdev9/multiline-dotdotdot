@@ -25,5 +25,6 @@ You have to wrap text in a tag because the directive calculate with this.
  - Publish package to npm
  - Add unit tests
  - Handle html tags in rendered content
+ - Add tags
  
 Feel free to add feature request.
