@@ -22,7 +22,6 @@ In html
 ```
 You have to wrap text in a tag because the directive calculate with this.
 ## TODOs
- - Publish package to npm
  - Add unit tests
  - Handle html tags in rendered content
  - Add tags
