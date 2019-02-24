@@ -26,4 +26,4 @@ You have to wrap text in a tag because the directive calculate with this.
  - Handle html tags in rendered content
  - Add tags
  
-Feel free to add feature request.
+Feel free to add feature requests and tell your suggestions. Thanks.
